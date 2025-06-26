@@ -1,8 +1,8 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+BOT_TOKEN = "8162804558:AAE8JC23Gmw3a9wRcdQIVUW8-NwcsMZ9V9Q"
+OWNER_ID = 1781599468
+TELEGRAM_API = 22957811
+TELEGRAM_HASH = "34bbb5ae7bac5ea7495e75fdc4b68dbf"
 DATABASE_URL = ""
 
 # OPTIONAL CONFIG
@@ -26,8 +26,8 @@ FFMPEG_CMDS = {}
 UPLOAD_PATHS = {}
 
 # Custom Bot Header
-CUSTOM_BOT_HEADER = "Beast"
-CUSTOM_BOT_HEADER_LINK = "https://t.me/MirrorBeast"
+CUSTOM_BOT_HEADER = "FaceMU"
+CUSTOM_BOT_HEADER_LINK = "https://BelomDibUat"
 
 # Hyper Tg Downloader
 HELPER_TOKENS = ""
@@ -45,8 +45,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "Beast"
-AUTHOR_URL = "https://t.me/MirrorBeast"
+AUTHOR_NAME = "RaiMU"
+AUTHOR_URL = "https://t.me/NtarMasihBingung"
 
 # Task Limits
 DIRECT_LIMIT = 0
@@ -101,11 +101,11 @@ LOGIN_PASS = ""
 # Bot Settings
 BOT_PM = False
 SET_COMMANDS = True
-TIMEZONE = "Asia/Kolkata"
+TIMEZONE = "Asia/Jakarta"
 
 # GDrive Tools
 GDRIVE_ID = ""
-GD_DESP = "Uploaded by Beast"
+GD_DESP = "Uploaded by FaceMU"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 INDEX_URL = ""
@@ -120,8 +120,8 @@ RCLONE_SERVE_PASS = ""
 SHOW_CLOUD_LINK = False
 
 # JDownloader
-JD_EMAIL = ""
-JD_PASS = ""
+JD_EMAIL = "indramario5@gmail.com"
+JD_PASS = "Kelinci12#"
 
 # Sabnzbd
 USENET_SERVERS = [
